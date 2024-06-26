@@ -1,0 +1,49 @@
+#clabel {
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#btn-container {
+    text-align: center;
+}
+
+.buttons {
+    padding: 10px;
+    font-size: 1.5em;
+    background-color: aquamarine;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+
+}
+.buttons:hover{
+    background-color: rgb(230, 123, 24);
+}
+
+img {
+    
+    height: 370px;
+    width: 250px;
+    border-radius: 10%;
+    border: solid blue;
+}
+
+#image {
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#head{
+    margin-top: 20px;
+}
